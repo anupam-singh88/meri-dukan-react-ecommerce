@@ -1,6 +1,8 @@
 # URL
 https://meri-dukan-react-ecommerce.netlify.app/
 
+![image](https://github.com/anupam-singh88/meri-dukan-react-ecommerce/assets/89381022/a8352266-740f-484c-bced-f63de7e89f2b)
+
 # Meri Dukan
 
 ## Description
